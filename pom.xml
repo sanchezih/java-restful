@@ -32,7 +32,7 @@
 	</dependencies>
 
 	<build>
-		<finalName>RESTfulExample</finalName>
+		<finalName>java-restful</finalName>
 		<plugins>
 			<plugin>
 				<artifactId>maven-compiler-plugin</artifactId>
